@@ -4,4 +4,4 @@
    do{
     echo "the number is : $x<br>";
     $x++
-   }while $x
+   }while $x ?>
