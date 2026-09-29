@@ -1,0 +1,12 @@
+<?
+    session_start();
+
+
+    $user="root";
+    $pass="";
+    $server="localhost";
+    $dbname="db4";
+
+    // try{
+    //     $conn= new PDO("mysql:host=$server;dbname=$dbname",$user,$pass);
+    // }catch(PDOException)
